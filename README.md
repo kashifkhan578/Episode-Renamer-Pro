@@ -1,6 +1,6 @@
 =====================================================
           EPISODE RENAMER PRO - VERSION 2.1
-          Developed by: Kashif Khan (AN TV)
+          Developed by: Kashif Khan
 =====================================================
 
 Episode Renamer Pro is a professional-grade utility 
